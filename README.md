@@ -19,20 +19,20 @@ SmartResume AI is an application that analyzes the content of a resume and check
  ▶️ How to Run
 pip install -r requirements.txt  
 streamlit run app.py  
-
  📷 Screenshots
 
- Home Screen
+### Home Screen
 ![Home](home.png)
 
- Input Screen
+### Input Screen
 ![Input](input.png)
 
- Score
+### Score
 ![Score](score.png)
 
- Skill Matching
+### Skill Matching
 ![Skill Matching](skillmatching.png)
+ 
 
  🎥 Demo Video
 (Link to the demo video to be provided here)
