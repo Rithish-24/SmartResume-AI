@@ -21,7 +21,18 @@ pip install -r requirements.txt
 streamlit run app.py  
 
  📷 Screenshots
-(Screenshots to be provided here)
+
+ Home Screen
+![Home](home.png)
+
+ Input Screen
+![Input](input.png)
+
+ Score
+![Score](score.png)
+
+ Skill Matching
+![Skill Matching](skillmatching.png)
 
  🎥 Demo Video
 (Link to the demo video to be provided here)
