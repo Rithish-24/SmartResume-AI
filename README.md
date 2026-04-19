@@ -22,6 +22,19 @@ streamlit run app.py
  📷 Screenshots
 
 
+ Home Screen
+![Home](home.png)
+
+ Input Screen
+![Input](input.png)
+
+ Score
+![Score](score.png)
+
+ Skill Matching
+![Skill Matching](skillmatching.png)
+
+
  
 
  🎥 Demo Video
